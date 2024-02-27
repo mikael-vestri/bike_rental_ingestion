@@ -1,0 +1,1 @@
+this is a data analysis + data engineer project, where we analyse data for bike rides available on code academy,  performing EDA, and ingesting data on a Postgres SQL database. On the database we perform data modeling in order to generate views for the data analysts answer business questions and generate reports
